@@ -1,0 +1,10 @@
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/data/
+**/checkpoints/
+**/wandb/
+*.pt
+*.pth
+*.safetensors
+.env
